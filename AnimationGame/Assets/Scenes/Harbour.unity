@@ -14669,6 +14669,14 @@ PlayableDirector:
     value: {fileID: 5081315002133595772}
   - key: {fileID: 8664599573567799078, guid: baf2ae1c28b9ec34c871a2cf306cb171, type: 2}
     value: {fileID: 5081315002133595771}
+  - key: {fileID: 4532220616280902300, guid: baf2ae1c28b9ec34c871a2cf306cb171, type: 2}
+    value: {fileID: 900081247}
+  - key: {fileID: 1535125684082677574, guid: baf2ae1c28b9ec34c871a2cf306cb171, type: 2}
+    value: {fileID: 469005166}
+  - key: {fileID: -6800956038485273326, guid: baf2ae1c28b9ec34c871a2cf306cb171, type: 2}
+    value: {fileID: 1931436048}
+  - key: {fileID: 1253575205079505852, guid: baf2ae1c28b9ec34c871a2cf306cb171, type: 2}
+    value: {fileID: 1337453059}
   m_ExposedReferences:
     m_References:
     - 246125edf3ddb1048a2c255beff981ae: {fileID: 2132272292}
@@ -55199,15 +55207,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8476082605565842915, guid: a55f0b4c178a01d4e847ce7dc2f27143, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8476082605565842915, guid: a55f0b4c178a01d4e847ce7dc2f27143, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8476082605565842915, guid: a55f0b4c178a01d4e847ce7dc2f27143, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8476082605565842915, guid: a55f0b4c178a01d4e847ce7dc2f27143, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
