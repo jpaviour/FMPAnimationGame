@@ -1,0 +1,7 @@
+rifle rotations
+
+gun idle 
+x = -70
+
+gun armed 
+x = -90
