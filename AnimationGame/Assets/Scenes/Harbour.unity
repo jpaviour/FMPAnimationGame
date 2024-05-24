@@ -23190,9 +23190,9 @@ MonoBehaviour:
   useShadow: 1
   useCookie: 1
   cookieMapRenderTexture: {fileID: 0}
-  enableOutOfPhaseColor: 0
-  outOfPhaseColorStrength: 0.78
-  outOfPhaseColor: {r: 0.999999, g: 0.39993018, b: 0.0000010132779, a: 1}
+  enableOutOfPhaseColor: 1
+  outOfPhaseColorStrength: 0.17
+  outOfPhaseColor: {r: 0.999999, g: 0.97712535, b: 0.9478353, a: 1}
   customDistanceFalloffThreshold: 0.5
   customDistanceFalloffPower: 2
   customCookieDistanceFalloffStartThreshold: 0.1
@@ -35834,8 +35834,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1157771240}
-  m_LocalRotation: {x: 0.032605287, y: -0.9423777, z: 0.09646174, w: 0.3186791}
-  m_LocalPosition: {x: 41.403458, y: -8.643423, z: 59.174057}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 22.419998, y: -10.14, z: -7.3200073}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
